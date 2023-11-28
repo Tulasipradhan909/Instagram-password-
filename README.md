@@ -32,7 +32,7 @@ In this script I added 4 crash wha viruses 1 instagram crash trava and 5 virus a
 #
 
 
-`bash setup.sh`
+`bash install.sh`
 #
 #
 #
